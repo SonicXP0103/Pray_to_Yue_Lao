@@ -1,0 +1,236 @@
+[
+  {
+    "id": "gorilla_waifu",
+    "name": "狂野大猩猩",
+    "nickname": "銀背純情霸主",
+    "rarity": "UR",
+    "type": "funny_twist",
+    "quote": "吼！（害羞地遞出親手剝好的香蕉，胸膛發出沉悶的心跳聲）",
+    "narrativeDesc": "看似重達兩百公斤的剛猛猛獸，內心卻只裝得下你一人。安全感突破天際的命定霸主。",
+    "traits": {
+      "strength": 98,
+      "wealth_wild": 60,
+      "clingy_dark": 10,
+      "gentle": 85,
+      "pure_heart": 95,
+      "ethereal": 5,
+      "humor_meme": 99
+    }
+  },
+  {
+    "id": "dump_truck_heiress",
+    "name": "砂石車千金",
+    "nickname": "三十五噸重工業摯愛",
+    "rarity": "UR",
+    "type": "funny_twist",
+    "quote": "上車！我的副駕駛座只為你鋪上最頂級的真皮坐墊，今天去拆遷誰家你說了算。",
+    "narrativeDesc": "手握家族重工砂石車隊的頂級白富美，行事雷厲風行，為你轟隆隆開闢康莊大道。",
+    "traits": {
+      "strength": 80,
+      "wealth_wild": 99,
+      "clingy_dark": 15,
+      "gentle": 70,
+      "pure_heart": 85,
+      "ethereal": 10,
+      "humor_meme": 95
+    }
+  },
+  {
+    "id": "sadako_chan",
+    "name": "電視貞子",
+    "nickname": "黑長直純情怨念姬",
+    "rarity": "SSR",
+    "type": "funny_twist",
+    "quote": "你…你已經連續七天盯著螢幕看我了…我忍不住爬出來找你了啦…笨蛋…",
+    "narrativeDesc": "跨越陰陽與液晶螢幕維度的深情少女。只要你不關電視，她願為你守候千世百轉。",
+    "traits": {
+      "strength": 20,
+      "wealth_wild": 10,
+      "clingy_dark": 99,
+      "gentle": 65,
+      "pure_heart": 90,
+      "ethereal": 88,
+      "humor_meme": 92
+    }
+  },
+  {
+    "id": "shaolin_sister",
+    "name": "少林銅人師姐",
+    "nickname": "十八羅漢金鐘罩首座",
+    "rarity": "SSR",
+    "type": "funny_twist",
+    "quote": "阿彌陀佛，貧尼願以金剛不壞之軀，替施主擋下一生風雨與小人暗算！",
+    "narrativeDesc": "全身塗滿黃金防護漆的武道宗師，牽起你的手時會小心控制力道以免捏碎指骨。",
+    "traits": {
+      "strength": 95,
+      "wealth_wild": 20,
+      "clingy_dark": 5,
+      "gentle": 75,
+      "pure_heart": 92,
+      "ethereal": 70,
+      "humor_meme": 88
+    }
+  },
+  {
+    "id": "tsundere_rich",
+    "name": "傲嬌富婆",
+    "nickname": "黑卡提款姬",
+    "rarity": "SSR",
+    "type": "pure_quality",
+    "quote": "哼，誰…誰要養你啊！這張無限額黑卡只是借你買宵夜的，密碼是你生日別忘了！",
+    "narrativeDesc": "嘴上不饒人，背地裡已經買下你公司整棟大樓讓你能準時下班的溫柔財閥。",
+    "traits": {
+      "strength": 15,
+      "wealth_wild": 98,
+      "clingy_dark": 40,
+      "gentle": 60,
+      "pure_heart": 70,
+      "ethereal": 30,
+      "humor_meme": 60
+    }
+  },
+  {
+    "id": "vampire_noble",
+    "name": "高冷吸血鬼",
+    "nickname": "夜之古堡貴公子",
+    "rarity": "SSR",
+    "type": "pure_quality",
+    "quote": "這世間唯有你的鮮血能止我的乾渴，但比起甘醇的血，我更渴望你的永恆誓言。",
+    "narrativeDesc": "沉睡四百年甦醒的貴族伯爵，月光下為你展現只屬於黑夜的優雅與偏執寵溺。",
+    "traits": {
+      "strength": 75,
+      "wealth_wild": 85,
+      "clingy_dark": 95,
+      "gentle": 60,
+      "pure_heart": 50,
+      "ethereal": 90,
+      "humor_meme": 40
+    }
+  },
+  {
+    "id": "fitness_queen",
+    "name": "健美白富美",
+    "nickname": "蛋白質暴徒名媛",
+    "rarity": "SSR",
+    "type": "pure_quality",
+    "quote": "寶貝，今晚三組深蹲做完，我就帶你搭私人直升機去吃高蛋白海鮮大餐！",
+    "narrativeDesc": "兼具魔鬼線條與天使財力的自律狂人，帶你健康長壽、財富自由的終身私教兼愛人。",
+    "traits": {
+      "strength": 92,
+      "wealth_wild": 90,
+      "clingy_dark": 20,
+      "gentle": 78,
+      "pure_heart": 80,
+      "ethereal": 40,
+      "humor_meme": 75
+    }
+  },
+  {
+    "id": "childhood_crush",
+    "name": "純愛青梅竹馬",
+    "nickname": "白月光守護者",
+    "rarity": "SR",
+    "type": "pure_quality",
+    "quote": "從小到大，不管是你跌倒還是闖禍，我什麼時候離開過你身邊了？",
+    "narrativeDesc": "最純粹的陪伴，始終如一的溫柔。世間喧囂繁華，都不及她遞來的一罐麥香奶茶。",
+    "traits": {
+      "strength": 20,
+      "wealth_wild": 30,
+      "clingy_dark": 10,
+      "gentle": 95,
+      "pure_heart": 99,
+      "ethereal": 30,
+      "humor_meme": 20
+    }
+  },
+  {
+    "id": "gentle_barista",
+    "name": "溫柔咖啡師",
+    "nickname": "暖光街角守候者",
+    "rarity": "SR",
+    "type": "pure_quality",
+    "quote": "今天也辛苦了。這杯燕麥奶拿鐵是特別為你調的甜度，剛好溫暖你的心。",
+    "narrativeDesc": "在巷弄溫暖一隅默默守候你每一天疲憊歸來，永遠帶有淡淡咖啡香氣的避風港。",
+    "traits": {
+      "strength": 25,
+      "wealth_wild": 40,
+      "clingy_dark": 15,
+      "gentle": 99,
+      "pure_heart": 95,
+      "ethereal": 50,
+      "humor_meme": 15
+    }
+  },
+  {
+    "id": "pure_arnold",
+    "name": "純情阿諾",
+    "nickname": "鋼鐵柔情硬漢",
+    "rarity": "SR",
+    "type": "funny_twist",
+    "quote": "Hasta la vista, baby... 呃我是說，你要喝手工現搖的乳清豆漿嗎？（害羞臉紅）",
+    "narrativeDesc": "看似能單手舉起坦克的施瓦辛格型壯漢，見到你卻會緊張得連話都說不清楚。",
+    "traits": {
+      "strength": 96,
+      "wealth_wild": 40,
+      "clingy_dark": 10,
+      "gentle": 88,
+      "pure_heart": 96,
+      "ethereal": 10,
+      "humor_meme": 90
+    }
+  },
+  {
+    "id": "fortune_teller",
+    "name": "算命仙姑",
+    "nickname": "天機洩漏者",
+    "rarity": "SR",
+    "type": "pure_quality",
+    "quote": "本仙姑掐指一算，你五行缺我！卦象顯示，今日宜結伴拜堂，忌單身離去！",
+    "narrativeDesc": "身懷秘術卻熱愛看言情小說的靈氣仙姑，凡事都要卜一卦，卦卦都在撮合你們兩人。",
+    "traits": {
+      "strength": 10,
+      "wealth_wild": 50,
+      "clingy_dark": 30,
+      "gentle": 70,
+      "pure_heart": 75,
+      "ethereal": 96,
+      "humor_meme": 85
+    }
+  },
+  {
+    "id": "tree_spirit",
+    "name": "深山樹妖",
+    "nickname": "千年老欉古靈仙",
+    "rarity": "SR",
+    "type": "pure_quality",
+    "quote": "吾在此幽谷靜候千年，看盡花開花落，只為今日與你樹蔭下一場相逢。",
+    "narrativeDesc": "超脫凡俗歲月的草木精靈，氣質清冷空靈，能為你平復人間所有浮躁與煩憂。",
+    "traits": {
+      "strength": 50,
+      "wealth_wild": 10,
+      "clingy_dark": 60,
+      "gentle": 85,
+      "pure_heart": 80,
+      "ethereal": 99,
+      "humor_meme": 30
+    }
+  },
+  {
+    "id": "old_yuelao",
+    "name": "月老本人",
+    "nickname": "牽線牽到抓狂的神界社畜",
+    "rarity": "UR",
+    "type": "legendary_god",
+    "quote": "別看了！全天下的紅線都快被你們這群奇怪的願望搞斷了！乾脆老夫親自來陪你啦！",
+    "narrativeDesc": "神界全知全能的姻緣主神，見過三界無數離奇緣分後，決定親自下凡陪伴你。",
+    "traits": {
+      "strength": 50,
+      "wealth_wild": 50,
+      "clingy_dark": 20,
+      "gentle": 90,
+      "pure_heart": 90,
+      "ethereal": 99,
+      "humor_meme": 99
+    }
+  }
+]

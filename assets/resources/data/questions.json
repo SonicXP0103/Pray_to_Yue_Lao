@@ -1,0 +1,514 @@
+[
+  {
+    "id": 101,
+    "lotId": "lot_wild_beast",
+    "scenario": "荒野野獸遭遇",
+    "title": "在深山迷路時，林間突然傳來一陣震撼山嶽的咆哮聲，你的第一反應是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "立刻脫下外套展示二頭肌，大聲咆哮回去！氣勢絕對不能輸！",
+        "subtext": "剛猛對抗",
+        "traitWeights": { "strength": 35, "humor_meme": 20 }
+      },
+      {
+        "id": "B",
+        "text": "拿出背包裡的香蕉與零食，溫柔試探性地遞出去：「吃嗎朋友？」",
+        "subtext": "純情交心",
+        "traitWeights": { "pure_heart": 30, "gentle": 25 }
+      },
+      {
+        "id": "C",
+        "text": "雙膝跪地求饒，大喊：「大王饒命！我有錢可以買下一整座山孝敬您！」",
+        "subtext": "豪金保命",
+        "traitWeights": { "wealth_wild": 30, "humor_meme": 25 }
+      },
+      {
+        "id": "D",
+        "text": "屏息凝神，閉上眼假裝自己是一棵吸收天地精華的老樹...",
+        "subtext": "神隱空靈",
+        "traitWeights": { "ethereal": 35, "clingy_dark": 15 }
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "lotId": "lot_wild_beast",
+    "scenario": "健身房突發事件",
+    "title": "如果你的另一半在健身房能單手臥推兩百公斤，你會怎麼看待？",
+    "options": [
+      {
+        "id": "A",
+        "text": "太性感了！我立刻躺到槓鈴下方當拉拉隊兼配重！",
+        "subtext": "極致崇拜",
+        "traitWeights": { "strength": 30, "humor_meme": 30 }
+      },
+      {
+        "id": "B",
+        "text": "好心疼，趕緊遞上溫熱毛巾和親手搖的蛋白粉給他擦汗。",
+        "subtext": "體貼溫柔",
+        "traitWeights": { "gentle": 35, "pure_heart": 20 }
+      },
+      {
+        "id": "C",
+        "text": "直接掏黑卡把這間健身房買下來當私人包廂，不准別人看！",
+        "subtext": "霸氣金援",
+        "traitWeights": { "wealth_wild": 40, "clingy_dark": 15 }
+      },
+      {
+        "id": "D",
+        "text": "感悟肉身苦弱，問他是否聽說過深山吸納朝露的辟穀心法？",
+        "subtext": "出塵超凡",
+        "traitWeights": { "ethereal": 35, "gentle": 10 }
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "lotId": "lot_wild_beast",
+    "scenario": "情人節禮物挑選",
+    "title": "挑選送給另一半的情人節禮物，以下哪一項最合你心意？",
+    "options": [
+      {
+        "id": "A",
+        "text": "高純度特級乳清蛋白一整桶 + 專業牛皮舉重護膝。",
+        "subtext": "硬核實用",
+        "traitWeights": { "strength": 35, "humor_meme": 15 }
+      },
+      {
+        "id": "B",
+        "text": "手織的保暖圍巾，並在角落繡上兩人的可愛卡通頭像。",
+        "subtext": "純愛手作",
+        "traitWeights": { "pure_heart": 35, "gentle": 25 }
+      },
+      {
+        "id": "C",
+        "text": "純金金條一公斤，上面刻著：「任你揮霍，不夠再說」。",
+        "subtext": "黃金浪漫",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 15 }
+      },
+      {
+        "id": "D",
+        "text": "一束永生黑玫瑰，以及寫著生生世世不離不棄的血誓古書。",
+        "subtext": "幽冥誓約",
+        "traitWeights": { "clingy_dark": 35, "ethereal": 20 }
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "lotId": "lot_wild_beast",
+    "scenario": "約會遭遇流氓挑釁",
+    "title": "走在夜市被一群醉漢出言不遜挑釁時，你的理想處理方式是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "我方伴侶一記下馬威震碎地磚，對方嚇得跪地認錯。",
+        "subtext": "威武霸道",
+        "traitWeights": { "strength": 35, "humor_meme": 20 }
+      },
+      {
+        "id": "B",
+        "text": "溫柔牽起我的手，靈巧地穿過人群離去，安撫我別受驚嚇。",
+        "subtext": "體貼溫厚",
+        "traitWeights": { "gentle": 35, "pure_heart": 20 }
+      },
+      {
+        "id": "C",
+        "text": "拿出支票簿笑問對方：「開個價吧，今天把整條夜市包下來打架？」",
+        "subtext": "用錢壓人",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 25 }
+      },
+      {
+        "id": "D",
+        "text": "身形突然化為半透明白影飄浮，在對方耳邊輕輕吹一口冷氣...",
+        "subtext": "離奇退敵",
+        "traitWeights": { "clingy_dark": 35, "ethereal": 25 }
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "lotId": "lot_heavy_industry",
+    "scenario": "豪門初見",
+    "title": "第一次到對方家裡作客，一進門看見客廳停著一輛大型推土機，你的感想是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "天啊太霸氣了！能不能讓我上去拉一下氣笛過過癮！",
+        "subtext": "重工共鳴",
+        "traitWeights": { "wealth_wild": 35, "strength": 20, "humor_meme": 25 }
+      },
+      {
+        "id": "B",
+        "text": "家裡真寬敞，我主動挽起袖子幫忙把推土機輪胎擦乾淨。",
+        "subtext": "居家賢慧",
+        "traitWeights": { "gentle": 35, "pure_heart": 25 }
+      },
+      {
+        "id": "C",
+        "text": "立刻打電話給助理：「把隔壁三條街買下來給他當停車場。」",
+        "subtext": "豪門對決",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 15 }
+      },
+      {
+        "id": "D",
+        "text": "凝視著金屬的反光，思考機械文明與輪迴解脫的深層哲學。",
+        "subtext": "禪宗沉思",
+        "traitWeights": { "ethereal": 35, "clingy_dark": 20 }
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "lotId": "lot_heavy_industry",
+    "scenario": "副駕駛座體驗",
+    "title": "對方開砂石車載你去兜風，經過顛簸山路震得七葷八素，此時你會：",
+    "options": [
+      {
+        "id": "A",
+        "text": "興奮大喊：「再來一次！這比雲霄飛車刺激一百倍！」",
+        "subtext": "冒險猛漢",
+        "traitWeights": { "strength": 30, "humor_meme": 30 }
+      },
+      {
+        "id": "B",
+        "text": "體貼地遞上保溫瓶與喉糖：「山路辛苦了，慢慢開不急喔。」",
+        "subtext": "暖心撫慰",
+        "traitWeights": { "gentle": 35, "pure_heart": 25 }
+      },
+      {
+        "id": "C",
+        "text": "拿出手機傳訊息給工務局：「這條路下週前必須鋪平，費用我出。」",
+        "subtext": "金主實力",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 20 }
+      },
+      {
+        "id": "D",
+        "text": "幽幽地靠在他肩上低語：「哪怕翻下懸崖，只要能跟你在一起就好…」",
+        "subtext": "深沉病嬌",
+        "traitWeights": { "clingy_dark": 40, "ethereal": 15 }
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "lotId": "lot_heavy_industry",
+    "scenario": "紀念日大餐",
+    "title": "交往週年紀念日，對方向你提出慶祝方案，你最期待的是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "在拆遷工地的最高點野餐，一邊看怪手工作一邊乾杯！",
+        "subtext": "硬派浪漫",
+        "traitWeights": { "wealth_wild": 30, "humor_meme": 35 }
+      },
+      {
+        "id": "B",
+        "text": "兩人在家一起做一頓簡單熱騰騰的番茄炒蛋蛋包飯。",
+        "subtext": "平凡純愛",
+        "traitWeights": { "pure_heart": 35, "gentle": 30 }
+      },
+      {
+        "id": "C",
+        "text": "包下米其林三星餐廳，現場送上一棟寫好他名字的海景別墅。",
+        "subtext": "千金手筆",
+        "traitWeights": { "wealth_wild": 45, "gentle": 10 }
+      },
+      {
+        "id": "D",
+        "text": "在燭光古堡裡喝一杯暗紅的特調飲品，聽他演奏大提琴古曲。",
+        "subtext": "貴族幽情",
+        "traitWeights": { "ethereal": 35, "clingy_dark": 30 }
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "lotId": "lot_heavy_industry",
+    "scenario": "吵架後的和解",
+    "title": "兩人冷戰吵架了，以下哪種和解方式會讓你瞬間氣消？",
+    "options": [
+      {
+        "id": "A",
+        "text": "他默默在你門口卸下一卡車你最愛吃的進口零食與禮物。",
+        "subtext": "以噸計量",
+        "traitWeights": { "wealth_wild": 35, "humor_meme": 30 }
+      },
+      {
+        "id": "B",
+        "text": "像個做錯事的小狗一樣蹲在門口，眼眶紅紅地扯你的衣角認錯。",
+        "subtext": "純真愧疚",
+        "traitWeights": { "pure_heart": 40, "gentle": 25 }
+      },
+      {
+        "id": "C",
+        "text": "把你直接公主抱起來塞進副駕：「不准哭，去巴黎散心！」",
+        "subtext": "霸道總裁",
+        "traitWeights": { "wealth_wild": 35, "strength": 25 }
+      },
+      {
+        "id": "D",
+        "text": "從床底鑽出來緊緊抱住你的腳踝：「不要生氣嘛，不然吃了你喔…」",
+        "subtext": "離奇撒嬌",
+        "traitWeights": { "clingy_dark": 35, "humor_meme": 25 }
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "lotId": "lot_supernatural",
+    "scenario": "電視雜訊的夜晚",
+    "title": "深夜午夜十二點，關掉的電視機突然自動亮起沙沙雪花雜訊，你會？",
+    "options": [
+      {
+        "id": "A",
+        "text": "走到電視前把頭髮撥好，敲敲螢幕：「嗨！要吃宵夜嗎朋友？」",
+        "subtext": "直面靈異",
+        "traitWeights": { "clingy_dark": 30, "humor_meme": 30 }
+      },
+      {
+        "id": "B",
+        "text": "貼心地拿一條溫暖毯子蓋在電視機上，怕裡面的朋友著涼感冒。",
+        "subtext": "聖母療癒",
+        "traitWeights": { "gentle": 35, "pure_heart": 25 }
+      },
+      {
+        "id": "C",
+        "text": "一拳把電視機面板砸碎，大喝：「少裝神弄鬼！出來單挑！」",
+        "subtext": "物理降魔",
+        "traitWeights": { "strength": 40, "humor_meme": 20 }
+      },
+      {
+        "id": "D",
+        "text": "點燃一爐檀香，盤腿端坐，平心靜氣地開始為對方誦念往生淨土咒。",
+        "subtext": "仙風道骨",
+        "traitWeights": { "ethereal": 40, "gentle": 15 }
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "lotId": "lot_supernatural",
+    "scenario": "頭髮護理日常",
+    "title": "對方的黑長直秀髮長到拖地，平常梳頭髮需要花兩個小時，你願意：",
+    "options": [
+      {
+        "id": "A",
+        "text": "每天耐心地站在她身後幫她梳頭、抹護髮油，當作情侶專屬浪漫時光。",
+        "subtext": "溫柔守候",
+        "traitWeights": { "gentle": 35, "clingy_dark": 30 }
+      },
+      {
+        "id": "B",
+        "text": "直接投資買下一家日本頂級沙龍美髮連鎖店，專門派十位造型師服侍。",
+        "subtext": "財閥照護",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 15 }
+      },
+      {
+        "id": "C",
+        "text": "把她的頭髮編成拳擊手辮子：「這樣方便去格鬥擂台奪冠！」",
+        "subtext": "狂野力量",
+        "traitWeights": { "strength": 35, "humor_meme": 30 }
+      },
+      {
+        "id": "D",
+        "text": "採集朝露與崖邊靈芝煎成藥水，為其髮絲注入草木靈氣。",
+        "subtext": "仙草修為",
+        "traitWeights": { "ethereal": 40, "pure_heart": 20 }
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "lotId": "lot_supernatural",
+    "scenario": "古堡夜遊",
+    "title": "來到一棟荒廢百年的歐洲古堡，推開沉重大門時看見滿地紅玫瑰，你的感覺是？",
+    "options": [
+      {
+        "id": "A",
+        "text": "神秘優雅，彷彿能嗅到四百年吸血鬼家族的宿命戀曲氣息。",
+        "subtext": "宿命之戀",
+        "traitWeights": { "clingy_dark": 35, "ethereal": 25 }
+      },
+      {
+        "id": "B",
+        "text": "好怕有危險，緊緊牽著伴侶的手：「我們不要分開走好不好？」",
+        "subtext": "依賴純情",
+        "traitWeights": { "pure_heart": 35, "gentle": 25 }
+      },
+      {
+        "id": "C",
+        "text": "這塊地皮產權是誰的？改建成觀光五星級渡假村一定大賺！",
+        "subtext": "商業頭腦",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 20 }
+      },
+      {
+        "id": "D",
+        "text": "挽起袖子深蹲十組，準備隨時手撕可能跳出來的狼人或怪物。",
+        "subtext": "備戰狂魔",
+        "traitWeights": { "strength": 40, "humor_meme": 20 }
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "lotId": "lot_supernatural",
+    "scenario": "永恆與衰老",
+    "title": "如果伴侶是不老不死的存在，而你終將白髮蒼蒼，你會對他說什麼？",
+    "options": [
+      {
+        "id": "A",
+        "text": "「不管投胎幾次，哪怕爬過忘川奈何橋，我每一世都會回到你身邊。」",
+        "subtext": "生生世世",
+        "traitWeights": { "clingy_dark": 40, "pure_heart": 30 }
+      },
+      {
+        "id": "B",
+        "text": "「珍惜我們共處的每一天，每一杯為你煮的咖啡我都全心全意。」",
+        "subtext": "此生溫存",
+        "traitWeights": { "gentle": 40, "pure_heart": 25 }
+      },
+      {
+        "id": "C",
+        "text": "「沒事！我立遺囑把幾千億資產都留信託給你，讓你做最富有的永生者！」",
+        "subtext": "金玉庇護",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 20 }
+      },
+      {
+        "id": "D",
+        "text": "「老夫這副身板還能練！看我每天深蹲延長壽命跟你熬到兩百歲！」",
+        "subtext": "逆天改命",
+        "traitWeights": { "strength": 35, "humor_meme": 30 }
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "lotId": "lot_grand_chaos",
+    "scenario": "三界大亂鬥邂逅",
+    "title": "走到月老廟正殿，眼前同時站著大猩猩、砂石車千金與電視貞子在爭奪你的注意，你：",
+    "options": [
+      {
+        "id": "A",
+        "text": "走向大猩猩給予結實的胸膛碰撞，男人之間用力量交流！",
+        "subtext": "猛獸共鳴",
+        "traitWeights": { "strength": 35, "humor_meme": 25 }
+      },
+      {
+        "id": "B",
+        "text": "走向砂石車千金，詢問三十五噸卡車今天油價多少。",
+        "subtext": "重工搭訕",
+        "traitWeights": { "wealth_wild": 35, "humor_meme": 25 }
+      },
+      {
+        "id": "C",
+        "text": "走向貞子幫她把遮臉的長髮順好，溫柔讚美她的膚質。",
+        "subtext": "深情怪誕",
+        "traitWeights": { "clingy_dark": 35, "gentle": 25 }
+      },
+      {
+        "id": "D",
+        "text": "轉身向月老神像喊道：「月老爺爺！這太刺激了，乾脆你跟我走吧！」",
+        "subtext": "直攻神明",
+        "traitWeights": { "ethereal": 35, "humor_meme": 35 }
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "lotId": "lot_grand_chaos",
+    "scenario": "約會去哪裡",
+    "title": "如果可以選擇一個最不落俗套的約會地點，你會挑哪一個？",
+    "options": [
+      {
+        "id": "A",
+        "text": "野生動物保護區，跟銀背猩猩家族一起爬樹採果子。",
+        "subtext": "原始野性",
+        "traitWeights": { "strength": 30, "humor_meme": 30 }
+      },
+      {
+        "id": "B",
+        "text": "拍賣會現場，隨意舉牌把全場頂級名畫與重機械全買下來。",
+        "subtext": "金玉狂瀾",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 20 }
+      },
+      {
+        "id": "C",
+        "text": "深夜無人的錄影帶出租店舊址，看一整晚沙沙的黑白電視機。",
+        "subtext": "古舊幽冥",
+        "traitWeights": { "clingy_dark": 35, "ethereal": 20 }
+      },
+      {
+        "id": "D",
+        "text": "母校操場的司令台，吹著晚風，吃著小時候一起買的冰棒。",
+        "subtext": "青蔥歲月",
+        "traitWeights": { "pure_heart": 40, "gentle": 30 }
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "lotId": "lot_grand_chaos",
+    "scenario": "心靈的避風港",
+    "title": "在你人生最沮喪、最想痛哭一場的時候，你最渴望什麼樣的擁抱？",
+    "options": [
+      {
+        "id": "A",
+        "text": "巨大、寬厚、像銅牆鐵壁一樣把你整個人完全包裹住的剛猛懷抱。",
+        "subtext": "絕對屏障",
+        "traitWeights": { "strength": 35, "gentle": 20 }
+      },
+      {
+        "id": "B",
+        "text": "悄無聲息、冰涼卻異常執著，彷彿要將你靈魂一起帶走的深邃擁抱。",
+        "subtext": "病態依戀",
+        "traitWeights": { "clingy_dark": 40, "ethereal": 15 }
+      },
+      {
+        "id": "C",
+        "text": "二話不說把頭等艙機票塞在你手裡，用溫柔眼神看著你說：「走，去散心。」",
+        "subtext": "實力後盾",
+        "traitWeights": { "wealth_wild": 35, "gentle": 25 }
+      },
+      {
+        "id": "D",
+        "text": "從小就熟悉的味道，輕拍你的背說：「不管世界怎樣，我永遠都在。」",
+        "subtext": "白月之光",
+        "traitWeights": { "pure_heart": 40, "gentle": 30 }
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "lotId": "lot_grand_chaos",
+    "scenario": "終極抉擇",
+    "title": "如果月老現在給你三條神聖紅線，只能選一條繫在手上，你選：",
+    "options": [
+      {
+        "id": "A",
+        "text": "繫在鋼鐵啞鈴上——戀愛隨緣，強健體魄勝過一切虛妄幻影！",
+        "subtext": "肌肉真理",
+        "traitWeights": { "strength": 40, "humor_meme": 25 }
+      },
+      {
+        "id": "B",
+        "text": "繫在純金手鐲上——物質基礎決定精神寄託，愛我請給我足夠的安全感！",
+        "subtext": "重工世俗",
+        "traitWeights": { "wealth_wild": 40, "humor_meme": 15 }
+      },
+      {
+        "id": "C",
+        "text": "繫在古舊電視天線上——即使穿越陰陽時空，我也要與你靈魂相守！",
+        "subtext": "跨界宿命",
+        "traitWeights": { "clingy_dark": 35, "ethereal": 25 }
+      },
+      {
+        "id": "D",
+        "text": "繫在月老神像手腕上——「月老神君，老實招來，你是不是早就對我動心了？」",
+        "subtext": "逆天神交",
+        "traitWeights": { "ethereal": 35, "humor_meme": 40 }
+      }
+    ]
+  }
+]

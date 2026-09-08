@@ -1,0 +1,46 @@
+[
+  {
+    "id": "lot_wild_beast",
+    "code": "天字第一號",
+    "title": "狂鸞伏虎・猛獸破天籤",
+    "seriesName": "剛猛野性系列",
+    "isMixedPool": false,
+    "poemBrief": "金剛怒目踏雲來，荒野情深不用猜。縱是猛獸心亦軟，一擲乾坤定姻緣。",
+    "themeSummary": "此籤兆示情緣剛猛異常，氣魄非凡，非凡人所能招架。",
+    "questionIds": [101, 102, 103, 104],
+    "candidateCharacterIds": ["gorilla_waifu", "shaolin_sister", "fitness_queen", "childhood_crush"]
+  },
+  {
+    "id": "lot_heavy_industry",
+    "code": "地字第二號",
+    "title": "金玉重工・砂石撼地籤",
+    "seriesName": "金玉重工系列",
+    "isMixedPool": false,
+    "poemBrief": "砂石車鳴響震天，千金一笑破荒煙。黃金萬兩隨風至，莫問出身但問緣。",
+    "themeSummary": "此籤主財祿豐沛、霸氣橫溢，伴侶氣場宏大、實力雄厚。",
+    "questionIds": [201, 202, 203, 204],
+    "candidateCharacterIds": ["dump_truck_heiress", "tsundere_rich", "fortune_teller", "pure_arnold"]
+  },
+  {
+    "id": "lot_supernatural",
+    "code": "玄字第三號",
+    "title": "幽冥古井・離奇宿命籤",
+    "seriesName": "幽冥離奇系列",
+    "isMixedPool": false,
+    "poemBrief": "井底月冷照離魂，電視沙沙動客心。莫道冥界無真意，長髮如絲縛同心。",
+    "themeSummary": "此籤情牽九幽、陰陽交錯，緣分深沉纏綿，終生難解。",
+    "questionIds": [301, 302, 303, 304],
+    "candidateCharacterIds": ["sadako_chan", "vampire_noble", "tree_spirit", "gentle_barista"]
+  },
+  {
+    "id": "lot_grand_chaos",
+    "code": "宇字第八號",
+    "title": "乾坤逆轉・太虛大混籤",
+    "seriesName": "一番賞全明星大混池",
+    "isMixedPool": true,
+    "poemBrief": "天地混沌一爐烹，神魔同墜幻情城。三界六道任挑選，百轉千迴定餘生。",
+    "themeSummary": "一番賞大亂鬥混和籤！涵蓋所有主題候選對象，考驗玩家極限偏好。",
+    "questionIds": [401, 402, 403, 404],
+    "candidateCharacterIds": ["gorilla_waifu", "dump_truck_heiress", "sadako_chan", "childhood_crush", "old_yuelao"]
+  }
+]
