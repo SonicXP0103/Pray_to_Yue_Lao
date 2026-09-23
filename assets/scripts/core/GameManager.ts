@@ -95,9 +95,20 @@ export class GameManager extends Component {
     this._currentQuestionIndex = 0;
 
     GameManager.events.emit(GameEvent.LOT_SELECTED, lot);
-    // 抽中籤後，前往請示月老 (擲筊階段)
-    this.changeStage(GameStage.TOSS_BWA);
+    // 保持在搖籤階段，讓 View 播完籤詩與靈籤卡片的展示。
+    // 玩家確認後，才由 UIShakeLotStage 呼叫 proceedToBwa() 切至擲筊。
     return lot;
+  }
+
+  /**
+   * 步驟 2.5：玩家確認抽中的靈籤，前往執筊請示。
+   * 將「抽籤」與「換畫面」分開，避免抽籤展示動畫被 UIManager 提前隱藏。
+   */
+  public proceedToBwa() {
+    if (!this._currentLot) {
+      throw new Error('尚未抽取靈籤，無法執筊請示');
+    }
+    this.changeStage(GameStage.TOSS_BWA);
   }
 
   /**
